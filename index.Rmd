@@ -1,0 +1,201 @@
+---
+title: "PyCon Limerick 2020"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: united
+    css: style.css
+    vertical_layout: scroll
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+
+PyCon Limerick {data-navmenu="PyCon Limerick"}
+=====================================
+
+Column 
+--------------------
+
+### PyCon Limerick 2020
+
+<p>
+
+<div>
+<center>
+<img src="./images/PyConLimerick.jpg" width=650 alt="">
+</center>
+</div>
+
+<p>
+
+
+
+* Date: Saturday 29th February 2020
+* Location: Strand Hotel Limerick 
+* Times: 10.00am to 17:10pm approx
+
+
+About {data-navmenu="PyCon Limerick"}
+==============================================================
+
+Column
+-------------------------------------------------------------
+
+### Pycon Limerick 2020
+
+PyCon Limerick 2020 will be returing to Limerick on Saturday 29th February 2020.
+This one day conference is a mixture of talks and workshops on topics related to the Python Programming Language.
+
+Python Ireland is the Irish organization representing the various chapters of Python users. 
+One of our key activities is the organization of Python Conferences. We have organized PyCon Ireland in Dublin over the last ten years.
+
+PyCon Ireland is now a highlight in the Dublin Tech Community calendar, with 400 python users attending the conference each autumn. PyCons are very popular with companies looking to recruit new talent.
+
+PyCon Limerick will take place on Saturday 29th February 2020 at the Strand Hotel Limerick.
+We hope to bring 150-200 technologists and coders from around Ireland to the city next Spring.
+
+We expect to present talks pertaining to
+
+* Data Science and Machine Learning
+* Big Data and Data Engineering
+* Software Engineering and Development Operations
+* Web Frameworks (i.e. Django)
+* IOT, Sensors and Micropython
+* Applications for Natural Sciences (e.g. Earth Observation, Environmental Monitoring)
+
+
+Morning Session 1 {data-navmenu="Schedule"}
+====================================
+
+Column
+-------------------------------------------------------------
+
+### Morning Session 1
+
+| Time   |  Room   |  Talk Title    |
+|:-------|:-------|:------------------------------------------------------------|
+| 10:00-10:45 | Room 1 |   **Domas Zelionis** <br> Flask-AppBuilder + Customization |
+| 10:00-10:45 | Room 2 |   **Johannes Ahlessman** <br> Python stream processing using Python, Kafka and Faust |
+| 10:00-10:45 | Room 3 |   **Laurent Picard**  <br> Building smarter solutions with no expertise in machine learning |
+| | | ***(Pause)***|
+| 10:50-11:20 | Room 1 |   **Krystian Czekalski** (ResourceKraft) <br> GraphQL with Python|
+| 10:50-11:20 | Room 2 |   **James Nagle** (Kerry Data Science) <br> Social Network of 1916 Rising |
+| 10:50-11:20 | Room 3 |   **Olga Lyashevska** (GMIT) <br> Class imbalance in gradient boosting classification algorithms: application to experimental stroke data |
+| | | |
+| 11:20-11:45 | | ***Coffee Break*** |
+
+
+ 	  	
+
+
+
+
+Morning Session 2 {data-navmenu="Schedule"}
+====================================
+Column
+-------------------------------
+
+
+### Schedule
+
+| Time   |  Room   |  Talk Title    |
+|:-------|:-------|:------------------------------------------------------------|
+|11:45-12:15 | Room 1	| **Dermot Canniffe** <br> Bias Engineering  |	
+|11:45-12:15 | Room 2 | **Gary Chadwick** (Cartoon Saloon)<br> Tailoring Scripts to Fit|	
+|11:45-12:15 | Room 3 | **Urja Pawar** ( Cork IT) 	<br> Concurrency & Parallel Programming |
+| | | ***(Pause)***|
+|12:20-13.05 | Room 1| **Cheuk-Ho Ting** (PyData London) <br> Are you supporting the right politician? - Graph Visualization of Voting Data	|
+|12:20-13.05 | Room 2| **Stephen Finucane** (Red Hat) <br> Getting started with Sphinx and Docutils 	|
+|12:20-13.05 | Room 3| **Allyn Hunt** <br> Adding data visualisation to your Flask app with React Victory charts |
+| | | |
+| 11:20-11:45 | | ***Lunch Break*** |
+
+Afternoon Session 1 {data-navmenu="Schedule"}
+====================================
+
+Column
+----------------------------------------------
+
+### Schedule
+
+| Time   |  Room   |  Talk Title    |
+|:-------|:-------|:------------------------------------------------------------|
+|14.15 - 14:45| Room 1 | **Miguel Grinsberg** <br> I know what you did last summer (engaging with the Python Community)	|	 
+|14.15 - 14:45| Room 2 | **Niall O'Connor**	 <br>  Machine learning to trade and make money! |	
+|14.15 - 14:45| Room 3 | **Arjumand Younus** (UCD / WiMLDS Dublin) <br> Python for Social Good |	 
+|14.15 - 14:45| Room 4 | **Chirag Shah**  (UCD)	<br> Understanding multithreading by deciphering the Cpython Intepreter source code| 
+|  |  |   |
+|14.50 - 15.20 | Room 1 |	 **Iain Keaney**  (Skellig  ai) <br> High-Level APIs for Machine Learning	|	 
+|14.50 - 15.20 | Room 2 |  **Prashant Chaubey** <br> Writing Good Python Code	|	
+|14.50 - 15.20 | Room 3 |  **Stephen McEntee** <br> Trees for structure and support in Python	|	 
+|14.50 - 15.20 | Room 4 |  **Chidubem Iddianozie** <br> Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.	| 
+| | | |
+|15.20-15.45 | | Coffee Break | 
+
+
+Afternoon Session 2 {data-navmenu="Schedule"}
+====================================
+
+Column
+----------------------------------------------
+
+### Schedule
+
+| Time   |  Room   |  Talk Title    |
+|:-------|:-------|:------------------------------------------------------------|
+|15:45 - 16.15 | Room 1 | **Matteo Perrico** <br> Customer churn prediction and segmentation techniques	|	
+|15:45 - 16.15 | Room 2 | **Meghana Rathi** (UCD) <br> Playing Pong with AI	|	
+|15:45 - 16.15 | Room 3 | **Jaime Buelta** (Rapid Ratings)	<br> Emotional demands of software development|	
+| | | (Pause) | 
+| 16.20 - 17.05 | Room 1 | **Krunoslav Plecko**	 <br> Visualising Youtube video context (NLP pipeline) |
+| 16.20 - 17.05 | Room 2 | **Tania Allard**  (Microsoft) <br> Reproducible data science and scientific computing: how the open source ecosystem can help|	 
+| 16.20 - 17.05 | Room 3 | **Kartik Sharma**	<br> ELK Stack with Python for Effective Logging|	
+
+Post Conference Social 
+==================================
+
+Column
+-----------------------------
+
+### Post Conference Social 
+
+
+<p>
+
+<div>
+<center>
+<img src="./images/jjbowles.jpg" width=650 alt="">
+</center>
+</div>
+
+<p>
+
+<br>
+
+The PyCon Limerick 2020 will conclude with a social event at J.J. Bowles on at 17:30.
+
+
+
+Code of Conduct
+==================================
+
+Column
+-----------------------------
+
+### Code of Conduct
+
+PyCon Limerick is dedicated to providing a harassment-free and inclusive conference experience for all in attendance regardless of, but not limited to, gender, sexual orientation, disabilities, physical attributes, age, ethnicity, social standing, religion or political affiliation.
+
+We do not tolerate harassment of participants (including organisers and vendors) in any form. Sexual innuendos and imagery are not appropriate for any conference venue, including presentations.
+
+Anyone violating these rules may be given warning or expelled from the conference (without a refund) at the discretion of the conference organisers.
+
+Our code of conduct/anti-harassment policy can be found here.
+
+
+
+
