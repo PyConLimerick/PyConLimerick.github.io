@@ -141,7 +141,7 @@ Column
 
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
-|14.15 - 14:45| Room 1 | **Miguel Grinsberg** <br> I know what you did last summer (engaging with the Python Community)	|	 
+|14.15 - 14:45| Room 1 | **Miguel Grinberg** <br> I Want To Know What You Did Last Summer (engaging with the Python Community)	|	 
 |14.15 - 14:45| Room 2 | **Niall O'Connor**	 <br>  Machine learning to trade and make money! |	
 |14.15 - 14:45| Room 3 | **Arjumand Younus** (UCD / WiMLDS Dublin) <br> Python for Social Good |	 
 |14.15 - 14:45| Room 4 | **Chirag Shah**  (UCD)	<br> Understanding multithreading by deciphering the Cpython Intepreter source code| 
