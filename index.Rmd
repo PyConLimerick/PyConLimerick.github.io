@@ -38,6 +38,12 @@ Column
 * Times: 10.00am to 17:10pm approx
 
 
+<div>
+<center>
+<img src="./images/Microsoft.png" width=300 alt="">
+</center>
+</div>
+
 About {data-navmenu="PyCon Limerick"}
 ==============================================================
 
