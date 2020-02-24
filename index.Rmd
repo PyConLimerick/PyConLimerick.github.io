@@ -42,6 +42,7 @@ Column
 <center>
 <img src="./images/Microsoft.png" width=300 alt="">
 <img src="./images/JumpingRivers.png" width=300 alt="">
+<img src="./images/ResourceKraft.png" width=300 alt="">
 </center>
 </div>
 
