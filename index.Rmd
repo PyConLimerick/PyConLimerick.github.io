@@ -130,8 +130,8 @@ Column
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
 |11:45-12:15 | Room 1	| **Dermot Canniffe** <br> Bias Engineering  |	
-|11:45-12:15 | Room 2 | **Gary Chadwick** (Cartoon Saloon)<br> Tailoring Scripts to Fit|	
-|11:45-12:15 | Room 3 | **Urja Pawar** ( Cork IT) 	<br> Concurrency & Parallel Programming |
+|11:45-12:15 | Room 2 | **Chirag Shah**  (UCD)	<br> Understanding multithreading by deciphering the Cpython Intepreter source code| 
+|11:45-12:15 | Room 3 | **Chidubem Iddianozie** <br> Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.	| 
 | | | ***(Pause)***|
 |12:20-13.05 | Room 1| **Cheuk-Ho Ting** (PyData London) <br> Are you supporting the right politician? - Graph Visualization of Voting Data	|
 |12:20-13.05 | Room 2| **Stephen Finucane** (Red Hat) <br> Getting started with Sphinx and Docutils 	|
@@ -152,12 +152,10 @@ Column
 |14.15 - 14:45| Room 1 | **Miguel Grinberg** <br> I Want To Know What You Did Last Summer (engaging with the Python Community)	|	 
 |14.15 - 14:45| Room 2 | **Niall O'Connor**	 <br>  Machine learning to trade and make money! |	
 |14.15 - 14:45| Room 3 | **Arjumand Younus** (UCD / WiMLDS Dublin) <br> Python for Social Good |	 
-|14.15 - 14:45| Room 4 | **Chirag Shah**  (UCD)	<br> Understanding multithreading by deciphering the Cpython Intepreter source code| 
 |  |  |   |
 |14.50 - 15.20 | Room 1 |	 **Iain Keaney**  (Skellig  ai) <br> High-Level APIs for Machine Learning	|	 
 |14.50 - 15.20 | Room 2 |  **Prashant Chaubey** <br> Writing Good Python Code	|	
 |14.50 - 15.20 | Room 3 |  **Stephen McEntee** <br> Trees for structure and support in Python	|	 
-|14.50 - 15.20 | Room 4 |  **Chidubem Iddianozie** <br> Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.	| 
 | | | |
 |15.20-15.45 | | Coffee Break | 
 
@@ -176,9 +174,9 @@ Column
 |15:45 - 16.15 | Room 2 | **Meghana Rathi** (UCD) <br> Playing Pong with AI	|	
 |15:45 - 16.15 | Room 3 | **Jaime Buelta** (Rapid Ratings)	<br> Emotional demands of software development|	
 | | | (Pause) | 
-| 16.20 - 17.05 | Room 1 | **Krunoslav Plecko**	 <br> Visualising Youtube video context (NLP pipeline) |
-| 16.20 - 17.05 | Room 2 | **Tania Allard**  (Microsoft) <br> Reproducible data science and scientific computing: how the open source ecosystem can help|	 
-| 16.20 - 17.05 | Room 3 | **Kartik Sharma**	<br> ELK Stack with Python for Effective Logging|	
+| 16.20 - 17.05 | Room 1 | **Tania Allard**  (Microsoft) <br> Reproducible data science and scientific computing: how the open source ecosystem can help|
+| 16.20 - 17.05 | Room 2 | 	 **Kartik Sharma**	<br> ELK Stack with Python for Effective Logging|
+| 16.20 - 17.05 | Room 3 | ......	|
 
 
 
@@ -281,15 +279,20 @@ Are you supporting the right politician? - Graph Visualization of Voting Data
 
 ### Room 2
 
-<h5> Tailoring Scripts to Fit (Gary Chadwick)</h5>
+<h5> Understanding multithreading by deciphering the Cpython Intepreter source code </h5>
 
-The development we do at Cartoon Saloon is inward focused, making tools that are very specific and tailored to the exact needs of our projects. Because of this controlled environment we can make certain assumptions about how the tools will be used.
+In the modern era of hybrid cores and processors, there is an in demand need for concurrent and parallel programming paradigms. Python, since its inception has amazing support for single threaded applications. The extensive use of Python in booming fields like Machine Learning has paved the way to constantly improve multi-threaded applications in Python.
 
-These assumptions allow our tools to do more, because they ""know"" more about our system.
+I will speak from ground level covering very crucial aspects of Threading and Locks which will provide a better roadmap for community to develop better Python applications.
 
-For example, we have a render farm that exports scenes for our animators. But because we know exactly where we store our files and the format they're in, we can also automatically upload those videos to our online production tracking system. My talk would explain this approach, how to write code in neat functions that can be broadly reusable.
+Program outcomes:
+* How threading can improve performance, its pros and cons.
+* What works best in which environment between threads and processes.
+* Why GIL matters the most in Python
+* How to leverage the power of open source source code to understand the crux of language.
 
-And then these basic functions can have more specific code built on top of them that's easy to modify and configure.
+
+
 <p>
 <hline>
 <h5> Getting started with Sphinx and Docutils (Stephen Finucane) </h5>
@@ -302,7 +305,11 @@ In this presentation, which is part talk, part workshop, we'll look at the basic
 
 ### Room 3
 
-<h5> Parallelism and concurrency (Urja Pawar)	</h5>
+<hline>
+<h5> Discriminative Machine Learning models for semantifying IoT data (Chidubem Iddianozie) </h5>
+
+Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.
+
 <p>
 <hline>
 <h5>Adding data visualization to your Flask app with React Victory Charts (Allyn Hunt)	</h5>
@@ -387,25 +394,7 @@ This talk presents some of the ways of constructing trees in Python, and examine
 
 Finally, the talk introduces the presenter's own Python package «vntree», examines some of its features, and demonstrates how it can be used to provide structure and support for various applications.
 
-### Room 4
 
-<h5> Understanding multithreading by deciphering the Cpython Intepreter source code </h5>
-
-In the modern era of hybrid cores and processors, there is an in demand need for concurrent and parallel programming paradigms. Python, since its inception has amazing support for single threaded applications. The extensive use of Python in booming fields like Machine Learning has paved the way to constantly improve multi-threaded applications in Python.
-
-I will speak from ground level covering very crucial aspects of Threading and Locks which will provide a better roadmap for community to develop better Python applications.
-
-Program outcomes:
-* How threading can improve performance, its pros and cons.
-* What works best in which environment between threads and processes.
-* Why GIL matters the most in Python
-* How to leverage the power of open source source code to understand the crux of language.
-
-<p>
-<hline>
-<h5> Discriminative Machine Learning models for semantifying IoT data (Chidubem Iddianozie) </h5>
-
-Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.
 
 Abstracts for Afternoon Session 2 {data-navmenu="Schedule"}
 =====================================
@@ -434,23 +423,12 @@ The developed model is the result of some customizations of the basic RFM model.
 The goal is to interpret the behavior of customers, trying toindentify the significant changes over time.
 
 
-<h5>Visualising Youtube video context (Krunoslav Plecko)</h5>
-
-This talk is about group UCD project of 6 engineers. Name of the project is Yousights. 
-
-Vision behind the project: Refine time consuming YouTube searches for skill enhancement. 
-We had idea to reduce the time to find most useful Youtube video, and increase user confidence in right choice. 
-
-For this purpose we build NLP pipeline in python, using 5 microservices deployed in multi-clud environment (IBM PaaS, Google IaaS). Core of the project is advanced sorting algorithm based per similarity with books, e.g how similar is python video with most ranked Safari books. Second part is sorting youtube video comments based on sentiment, and third part automatically generating table of content based per video transcript.
-Python is used for backend, to extract text from youtube video, process the text, and NLP machine learning part. 
-All microservices on backend side use Python Flask, and our DB of choice is MongoDB.
-
-My role was project management, architecture and development. 
-Presentation will show advanced usage of Python and hardware like GPU for NLP in novel idea to visualise context on Youtube video.
-Website can be tested here: https://yousight.eu-gb.mybluemix.net/
 
 
 
+
+<h5> Reproducible data science and scientific computing (Tania Allard) </h5>
+Reproducible data science and scientific computing: how the open source ecosystem can help
 
 
 
@@ -465,9 +443,14 @@ My project was based on using reinforcement learning specifically Q-learning and
 * This project was to prove the concept that AI can be made safer and reliable when used in collaboration with control engineering tools. 
 * The work from my project is now published online at https://arxiv.org/abs/1911.04400?context=cs.LG	
 
+<h5> ELK Stack with Python for Effective Logging	(Kartik Sharma)</h5>
 
-<h5> Reproducible data science and scientific computing (Tania Allard) </h5>
-Reproducible data science and scientific computing: how the open source ecosystem can help
+System logging becomes one of the necessary parts in system design because of the large scale and a wide variety of data information systems are handling. Through this platform, I want to give our techies and other people in the audience an insight into the importance of logging and facilitating its features through ELK stack. ELK stands for Elastic, Logstash and Kibana, Through these 3 technologies, developers can create, store and visualize the working of the systems. These visualization also helps all the stakeholders with the relevant information of the system health. Daily cron or triggers can be set up in order to monitor the health of the system continuously. 
+
+I am Kartik Sharma, Software Development Engineer in one of the topmost technology companies in India. I have an experience of more than 3 years in designing and development of scalable and robust products that handles more than 20 million transactions per day. My first company Mobikwik, India's 2nd largest E-wallet and payment solutions company, I was being the lead developer for Payment solutions for tech giant Uber. Uber integrated our customized development solution for charging their merchants. 
+
+This main objective for this project is to implement a scalable and robust solution that can process >200 Transaction per sec. Other projects include Transactions reconciliation mechanisms for Zomato in which the bottleneck was handling scale with spring transaction management properties, implementing a solution transferring exception handling responsibilities to Mysql procedures and thread-based group solutions. My team had faced this problem and figured this as the best solution. 
+
 
 
 ### Room 3
@@ -481,14 +464,31 @@ Reproducible data science and scientific computing: how the open source ecosyste
 * In this talk we will talk about difficulties in handling the work and learn how to handle our emotions and fears is an important ability in a long career.	
 
 
+Lunch
+====================================
 
-<h5> ELK Stack with Python for Effective Logging	(Kartik Sharma)</h5>
+### Lunch 
 
-System logging becomes one of the necessary parts in system design because of the large scale and a wide variety of data information systems are handling. Through this platform, I want to give our techies and other people in the audience an insight into the importance of logging and facilitating its features through ELK stack. ELK stands for Elastic, Logstash and Kibana, Through these 3 technologies, developers can create, store and visualize the working of the systems. These visualization also helps all the stakeholders with the relevant information of the system health. Daily cron or triggers can be set up in order to monitor the health of the system continuously. 
+There is no arrangements made for lunch as standard, although we have made special arrangements at the hotel for those who have requested it.
 
-I am Kartik Sharma, Software Development Engineer in one of the topmost technology companies in India. I have an experience of more than 3 years in designing and development of scalable and robust products that handles more than 20 million transactions per day. My first company Mobikwik, India's 2nd largest E-wallet and payment solutions company, I was being the lead developer for Payment solutions for tech giant Uber. Uber integrated our customized development solution for charging their merchants. 
 
-This main objective for this project is to implement a scalable and robust solution that can process >200 Transaction per sec. Other projects include Transactions reconciliation mechanisms for Zomato in which the bottleneck was handling scale with spring transaction management properties, implementing a solution transferring exception handling responsibilities to Mysql procedures and thread-based group solutions. My team had faced this problem and figured this as the best solution. 
+
+<h5> Where to go for Lunch</h5>
+There are several wonderful places to have lunch in walking distance of the venue.
+<p>
+Very popular options include:
+
+* [The Curragower Seafood Bar and Restaurant](https://curragower.com/) - Expect a lot of people to go there.
+* [Hook and Ladder](https://www.hookandladder.ie/) on Sarsfield Street
+* [La Cucina](http://lacucina.ie/) on Henry Street.
+* [Milanos](http://milano.ie/our-restaurants/restaurant-details/Milano-Limerick) on Honan's Quay - On the riverfront facing the hotel, with lots of room.
+* [The Hunt Museum Cafe](https://www.huntmuseum.com/cafe/)
+
+
+
+
+
+
 
 
 Post Conference Social 
