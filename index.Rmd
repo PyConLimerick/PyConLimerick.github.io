@@ -464,6 +464,34 @@ This main objective for this project is to implement a scalable and robust solut
 * In this talk we will talk about difficulties in handling the work and learn how to handle our emotions and fears is an important ability in a long career.	
 
 
+Workshops {data-navmenu="Workshops"}
+==================================
+
+Column {.tabset}
+-----------------------------
+
+### Workshop 1 (Morning)
+
+<h5> Introduction to Github (2 Hours) </h5>
+
+* Presenter: Jamie OWen ([Jumping Rivers](www.jumpingrivers.com))
+* Beginners friendly, and aimed at Students
+* Taking place in Henehan Suite - Venue Capacity is Approx 30
+
+### Workshop 2 (Morning)
+
+<h5>  Machine learning and high-performance computing with PyCall </h5>
+
+* Presenter: Paul Palmes (IBM Dublin)
+* Taking place in De Lacey Room  - Venue Capacity : Approx 10
+
+### Workshop 3 (Afternoon)
+
+<h5> A Python ROS framework to build your own robots from </h5>
+
+* Presenter: John O'Reilly
+* Taking place in Henehan Suite - Venue Capacity is Approx 30
+
 Lunch
 ====================================
 
@@ -514,24 +542,6 @@ Column
 
 The PyCon Limerick 2020 will conclude with a social event at J.J. Bowles on at 17:30.
 
-
-Workshops {data-navmenu="Workshops"}
-==================================
-
-Column {.tabset}
------------------------------
-
-### Workshop 1
-
-Details to follow
-
-### Workshop 2
-
-Details to follow
-
-### Workshop 3
-
-Details to follow
 
 
 
