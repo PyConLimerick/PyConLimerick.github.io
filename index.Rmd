@@ -108,8 +108,8 @@ Column
 | 10:00-10:45 | Room 3 |   **Laurent Picard**  <br> Building smarter solutions with no expertise in machine learning |
 | | | ***(Pause)***|
 | 10:50-11:20 | Room 1 |   **Krystian Czekalski** (ResourceKraft) <br> GraphQL with Python|
-| 10:50-11:20 | Room 2 |   **James Nagle** (Kerry Data Science) <br> Social Network of 1916 Rising |
-| 10:50-11:20 | Room 3 |   **Olga Lyashevska** (GMIT) <br> Class imbalance in gradient boosting classification algorithms: application to experimental stroke data |
+| 10:50-11:20 | Room 2 |   
+| 10:50-11:20 | Room 3 |   |
 | | | |
 | 11:20-11:45 | | ***Coffee Break*** |
 
@@ -150,8 +150,8 @@ Column
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
 |14.15 - 14:45| Room 1 | **Miguel Grinberg** <br> I Want To Know What You Did Last Summer (engaging with the Python Community)	|	 
-|14.15 - 14:45| Room 2 | |	
-|14.15 - 14:45| Room 3 | |	 
+|14.15 - 14:45| Room 2 | **James Nagle** (Kerry Data Science) <br> Social Network of 1916 Rising |	
+|14.15 - 14:45| Room 3 |  **Olga Lyashevska** (GMIT) <br> Class imbalance in gradient boosting classification algorithms: application to experimental stroke data|	 
 |  |  |   |
 |14.50 - 15.20 | Room 1 |	 **Iain Keaney**  (Skellig  ai) <br> High-Level APIs for Machine Learning	|	 
 |14.50 - 15.20 | Room 2 |  **Prashant Chaubey** <br> Writing Good Python Code	|	
