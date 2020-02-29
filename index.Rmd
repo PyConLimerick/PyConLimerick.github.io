@@ -103,7 +103,7 @@ Column
 
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
-| 10:00-10:45 | Room 1 |   **Domas Zelionis** <br> Flask-AppBuilder + Customization |
+| 10:00-10:45 | Room 1 |   **Arjumand Younus** (UCD / WiMLDS Dublin) <br> Python for Social Good |	
 | 10:00-10:45 | Room 2 |   **Johannes Ahlessman** <br> Python stream processing using Python, Kafka and Faust |
 | 10:00-10:45 | Room 3 |   **Laurent Picard**  <br> Building smarter solutions with no expertise in machine learning |
 | | | ***(Pause)***|
@@ -130,7 +130,7 @@ Column
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
 |11:45-12:15 | Room 1	| **Dermot Canniffe** <br> Bias Engineering  |	
-|11:45-12:15 | Room 2 | **Chirag Shah**  (UCD)	<br> Understanding multithreading by deciphering the Cpython Intepreter source code| 
+|11:45-12:15 | Room 2 | **Kevin OBrien**  (UCD)	<br> Building Community Events in the West of Ireland| 
 |11:45-12:15 | Room 3 | **Chidubem Iddianozie** <br> Discriminative Machine Learning models for semantifying IoT data: Why, How and Lessons Learnt.	| 
 | | | ***(Pause)***|
 |12:20-13.05 | Room 1| **Cheuk-Ho Ting** (PyData London) <br> Are you supporting the right politician? - Graph Visualization of Voting Data	|
@@ -150,8 +150,8 @@ Column
 | Time   |  Room   |  Talk Title    |
 |:-------|:-------|:------------------------------------------------------------|
 |14.15 - 14:45| Room 1 | **Miguel Grinberg** <br> I Want To Know What You Did Last Summer (engaging with the Python Community)	|	 
-|14.15 - 14:45| Room 2 | **Niall O'Connor**	 <br>  Machine learning to trade and make money! |	
-|14.15 - 14:45| Room 3 | **Arjumand Younus** (UCD / WiMLDS Dublin) <br> Python for Social Good |	 
+|14.15 - 14:45| Room 2 | |	
+|14.15 - 14:45| Room 3 | |	 
 |  |  |   |
 |14.50 - 15.20 | Room 1 |	 **Iain Keaney**  (Skellig  ai) <br> High-Level APIs for Machine Learning	|	 
 |14.50 - 15.20 | Room 2 |  **Prashant Chaubey** <br> Writing Good Python Code	|	
@@ -176,7 +176,7 @@ Column
 | | | (Pause) | 
 | 16.20 - 17.05 | Room 1 | **Tania Allard**  (Microsoft) <br> Reproducible data science and scientific computing: how the open source ecosystem can help|
 | 16.20 - 17.05 | Room 2 | 	 **Kartik Sharma**	<br> ELK Stack with Python for Effective Logging|
-| 16.20 - 17.05 | Room 3 | ......	|
+| 16.20 - 17.05 | Room 3 | **Domas Zelionis** <br> Flask-AppBuilder + Customization |
 
 
 
